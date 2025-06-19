@@ -1,5 +1,5 @@
 # Monitor de la xarxa
-Script per monitoritzar els hosts d'una xarxa.
+Script per a monitoritzar els hosts d'una xarxa.
 
 Dissenyat per a que l'alumnat pugui realitzar activitats **amb ordinador** però **sense connexió a Internet**.
 
